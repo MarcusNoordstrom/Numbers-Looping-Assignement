@@ -1,0 +1,13 @@
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
+D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache

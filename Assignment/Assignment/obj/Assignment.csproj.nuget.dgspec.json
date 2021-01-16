@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj": {}
+  },
+  "projects": {
+    "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
+        "projectName": "Assignment",
+        "projectPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
+        "packagesPath": "C:\\Users\\Bulten\\.nuget\\packages\\",
+        "outputPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bulten\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\Bulten\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
