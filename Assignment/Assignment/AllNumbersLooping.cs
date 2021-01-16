@@ -5,16 +5,13 @@ using System.Linq;
 
 namespace Assignment {
 //TODO: AllNumbersLooping should implement IEnumerable<int>
-
 //TODO: The constructor takes two arguments: int from, int to
-
 //TODO: The output of foreach should give all numbers between from and to:
 // var allNumbersLooping = new AllNumbersLooping(3, 7);
 // foreach(var number in allNumbersLooping){
 // Console.Write(number);
 // }
 // Output: 34567
-
 
 // Internally, your class is only allowed to store:
 // List<int> givenNumbers = new List<int>();
@@ -28,7 +25,7 @@ namespace Assignment {
         }
 
         public void AlsoLoopTo(int number) {
-            _givenNumbers.Add(19);
+            
         }
 
         public IEnumerator<int> GetEnumerator() {

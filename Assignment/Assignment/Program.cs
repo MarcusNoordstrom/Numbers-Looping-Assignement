@@ -4,7 +4,7 @@ namespace Assignment {
     class Program {
         static void Main(string[] args) {
            
-            var allNumbersLooping = new AllNumbersLooping(5, 1);
+            var allNumbersLooping = new AllNumbersLooping(0, 10);
             allNumbersLooping.AlsoLoopTo(7);
             
             foreach (var number in allNumbersLooping) {
