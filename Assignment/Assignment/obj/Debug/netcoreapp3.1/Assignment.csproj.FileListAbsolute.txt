@@ -1,13 +1,25 @@
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.exe
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.deps.json
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.json
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.runtimeconfig.dev.json
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.dll
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\bin\Debug\netcoreapp3.1\Assignment.pdb
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csprojAssemblyReference.cache
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfoInputs.cache
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.AssemblyInfo.cs
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.csproj.CoreCompileInputs.cache
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.dll
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.pdb
-D:\Forsbergs Projects\Assignment1\Assignment\Assignment\obj\Debug\netcoreapp3.1\Assignment.genruntimeconfig.cache
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.exe
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.deps.json
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.json
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.dev.json
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.dll
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.pdb
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.csprojAssemblyReference.cache
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfoInputs.cache
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfo.cs
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.CoreCompileInputs.cache
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.dll
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.pdb
+D:/Forsbergs Projects/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.genruntimeconfig.cache
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.deps.json
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.json
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.dev.json
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.dll
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/bin/Debug/netcoreapp3.1/Assignment.pdb
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.csprojAssemblyReference.cache
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfoInputs.cache
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfo.cs
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.CoreCompileInputs.cache
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.dll
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.pdb
+/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/Debug/netcoreapp3.1/Assignment.genruntimeconfig.cache

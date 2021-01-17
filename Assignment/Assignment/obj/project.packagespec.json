@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
+    "projectUniqueName": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/Assignment.csproj",
     "projectName": "Assignment",
-    "projectPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
-    "outputPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\obj\\",
+    "projectPath": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/Assignment.csproj",
+    "outputPath": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -40,7 +40,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Users\\Bulten\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
     }
   }
 }

@@ -4,14 +4,34 @@
     <projectFile>Assignment/Assignment.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81424e17-a343-4c77-9121-577d75f869d7" name="Default Changelist" comment="" />
+    <list default="true" id="81424e17-a343-4c77-9121-577d75f869d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/AllNumbersLooping.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/AllNumbersLooping.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Assignment.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Assignment.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Assignment.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Assignment.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/netcoreapp3.1/Assignment.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/D3/ThrowHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1n3wG2XovuNwXcUb1pMYMnJYJHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -67,6 +88,7 @@
       <workItem from="1610636288543" duration="2125000" />
       <workItem from="1610739125483" duration="3314000" />
       <workItem from="1610785994798" duration="7192000" />
+      <workItem from="1610838313115" duration="4366000" />
     </task>
     <servers />
   </component>
@@ -79,21 +101,25 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1610794409487">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="90" key="GridCell.Tab.0.bottom" timestamp="1610843757924">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="90" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1610843757924" />
     <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/998.-1080.1920.1040/1920.16.1680.1010@0.0.1920.1040" timestamp="1610794409487" />
-    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1610794409487">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="90" key="GridCell.Tab.0.center" timestamp="1610843757923">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="90" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1610843757923" />
     <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/998.-1080.1920.1040/1920.16.1680.1010@0.0.1920.1040" timestamp="1610794409487" />
-    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1610794409487">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="90" key="GridCell.Tab.0.left" timestamp="1610843757923">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="90" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1610843757923" />
     <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/998.-1080.1920.1040/1920.16.1680.1010@0.0.1920.1040" timestamp="1610794409487" />
-    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1610794409487">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="90" key="GridCell.Tab.0.right" timestamp="1610843757924">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="90" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1610843757924" />
     <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/998.-1080.1920.1040/1920.16.1680.1010@0.0.1920.1040" timestamp="1610794409487" />
     <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1610794409487">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -167,5 +193,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="220" key="RiderGenerateDialog/0.0.1920.1040/998.-1080.1920.1040/1920.16.1680.1010@0.0.1920.1040" timestamp="1610636504320" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1610839187973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1610839187973" />
   </component>
 </project>

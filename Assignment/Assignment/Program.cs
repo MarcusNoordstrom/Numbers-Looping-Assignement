@@ -4,37 +4,13 @@ namespace Assignment {
     class Program {
         static void Main(string[] args) {
            
-            var allNumbersLooping = new AllNumbersLooping(0, 10);
-            allNumbersLooping.AlsoLoopTo(7);
-            
+            var allNumbersLooping = new AllNumbersLooping(1, 4);
+            allNumbersLooping.AlsoLoopTo(0);
+            allNumbersLooping.AlsoLoopTo(10);
+
             foreach (var number in allNumbersLooping) {
                 Console.WriteLine(number);   
             }
         }
     }
 }
-
-
-// Furthermore, I can use the method void AlsoLoopTo(int number) to make it loop to another number:
-//
-// var allNumbersLooping = new AllNumbersLooping(3, 7);
-// alllNumbersLooping.AlsoLoopTo(5);
-// alllNumbersLooping.AlsoLoopTo(9);
-// foreach(var number in allNumbersLooping){
-// Console.Write(number);
-// }
-//
-//
-// Output: 34567656789
-//
-
-//
-// var allNumbersLooping = new AllNumbersLooping(3, 7);
-// alllNumbersLooping.AlsoLoopTo(5);
-// alllNumbersLooping.AlsoLoopTo(9);
-// foreach(var number in allNumbersLooping){
-// Console.Write(number);
-// }
-//
-//
-// givenNumbers should contain: 3,7,5,9

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Bulten\\.nuget\\packages\\": {}
+    "/Users/marcusnordstrom/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\Assignment.csproj",
-      "packagesPath": "C:\\Users\\Bulten\\.nuget\\packages\\",
-      "outputPath": "D:\\Forsbergs Projects\\Assignment1\\Assignment\\Assignment\\obj\\",
+      "projectPath": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/Assignment.csproj",
+      "packagesPath": "/Users/marcusnordstrom/.nuget/packages/",
+      "outputPath": "/Users/marcusnordstrom/Assignment1/Assignment/Assignment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bulten\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/marcusnordstrom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -56,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Bulten\\.dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
       }
     }
   }
